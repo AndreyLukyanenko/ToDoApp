@@ -1,0 +1,13 @@
+.app-header {
+  align-items: flex-end;
+}
+
+.headerH1 {
+  flex-grow: 1;
+  white-space: nowrap;
+}
+
+.headerH2 {
+  font-size: 20px;
+  color: grey;
+}
